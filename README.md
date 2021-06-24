@@ -22,7 +22,7 @@ const KaneWestwood = () => {
             "Angular",
             "PHP (Laravel)",
             "AWS (Dynamo DB / Cognito / AWS Amplify / Lambda Functions)",
-            "Node.js (express)",
+            "Node.js (Express)",
             "SQL"
         ];
         console.log("💻 Technologies I have used in previous roles: " + technologiesUsed);
@@ -30,8 +30,8 @@ const KaneWestwood = () => {
 
     return (
         <div>
-            <button onClick={greet}>Say Hello</button>
-            <button onClick={interests}>Display Interests</button>
+            <button onClick={greet}>Say hello</button>
+            <button onClick={interests}>Display interests</button>
             <button onClick={learning}>What I am learning</button>
             <button onClick={previousExperience}>Technologies used</button>
         </div>
