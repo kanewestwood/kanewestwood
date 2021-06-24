@@ -1,3 +1,6 @@
+# Hello and welcome to my GitHub profile.
+![](https://komarev.com/ghpvc/?username=kanewestwood)
+
 ```javascript
 import React from "react";
 
